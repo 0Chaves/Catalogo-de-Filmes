@@ -1,0 +1,5 @@
+
+public enum ENUM_generos {
+	ACAO, AVENTURA, COMEDIA, DRAMA, SUSPENSE, TERROR;
+	
+}

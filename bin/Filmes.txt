@@ -1,0 +1,38 @@
+O Exorcista;Terror;9;1973;Ellen Burstyn,Max von Sydow,Linda Blair
+Mad Max: Estrada da Furia;Acao;9;2015;Tom Hardy,Charlize Theron,Nicholas Hoult
+A Origem;Acao;8;2010;Leonardo DiCaprio,Joseph Gordon-Levitt,Ellen Page
+O Silencio dos Inocentes;Suspense;9;1991;Jodie Foster,Anthony Hopkins,Lawrence A. Bonney
+O Clube da Luta;Drama;8;1999;Brad Pitt,Edward Norton,Helena Bonham Carter
+Gladiador;Acao;8;2000;Russell Crowe,Joaquin Phoenix,Connie Nielsen
+A Lista de Schindler;Drama;9;1993;Liam Neeson,Ben Kingsley,Ralph Fiennes
+Pulp Fiction;Comedia;9;1994;John Travolta,Uma Thurman,Samuel L. Jackson
+Jurassic Park;Aventura;8;1993;Sam Neill,Laura Dern,Jeff Goldblum
+Os Vingadores;Acao;8;2012;Robert Downey Jr.,Chris Evans,Scarlett Johansson
+O Grande Lebowski;Comedia;8;1998;Jeff Bridges,John Goodman,Julianne Moore
+O Labirinto do Fauno;Drama;8;2006;Ivana Baquero,Sergi Lopez,Maribel Verdu
+Star Wars: Uma Nova Esperanca;Aventura;8;1977;Mark Hamill,Harrison Ford,Carrie Fisher
+O Senhor dos Aneis: A Sociedade do Anel;Aventura;8;2001;Elijah Wood,Ian McKellen,Viggo Mortensen
+O Senhor dos Aneis: As Duas Torres;Aventura;9;2002;Elijah Wood,Ian McKellen,Viggo Mortensen
+O Senhor dos Aneis: O Retorno do Rei;Aventura;10;2003;Elijah Wood,Ian McKellen,Viggo Mortensen
+Inception;Acao;9;2010;Leonardo DiCaprio,Joseph Gordon-Levitt,Ellen Page
+O Iluminado;Terror;8;1980;Jack Nicholson,Shelley Duvall,Danny Lloyd
+O Grande Gatsby;Drama;7;2013;Leonardo DiCaprio,Tobey Maguire,Carey Mulligan
+O Resgate do Soldado Ryan;Acao;9;1998;Tom Hanks,Matt Damon,Tom Sizemore
+O Pianista;Drama;8;2002;Adrien Brody,Thomas Kretschmann,Frank Finlay
+A Forma da Agua;Drama;8;2017;Sally Hawkins,Doug Jones,Michael Shannon
+O Magico de Oz;Aventura;8;1939;Judy Garland,Frank Morgan,Ray Bolger
+Cidadao Kane;Drama;10;1941;Orson Welles,Joseph Cotten,Dorothy Comingore
+O Hobbit: Uma Jornada Inesperada;Aventura;0;2012;Martin Freeman,Ian McKellen,Richard Armitage
+La La Land: Cantando Estacoes;Comedia;8;2016;Ryan Gosling,Emma Stone,John Legend
+A Bela e a Fera;Comedia;9;1991;Paige O'Hara,Robby Benson,Jerry Orbach
+O Lobo de Wall Street;Comedia;9;2013;Leonardo DiCaprio,Jonah Hill,Margot Robbie
+O Segredo de Brokeback Mountain;Drama;1;2005;Heath Ledger,Jake Gyllenhaal,Michelle Williams
+O Exterminador do Futuro;Acao;8;1984;Arnold Schwarzenegger,Linda Hamilton,Michael Biehn
+Corra!;Terror;8;2017;Daniel Kaluuya,Allison Williams,Bradley Whitford
+Trocando os Pes;Comedia;7;2004;Lindsay Lohan,Jamie Lee Curtis,Mark Harmon
+A Bruxa de Blair;Terror;7;1999;Heather Donahue,Joshua Leonard,Michael C. Williams
+A Perseguicao;Suspense;8;2020;Daniel Craig,Rami Malek,Lea Seydoux
+A Divertida Historia da Ciencia;Comedia;7;2015;Steve Carell,Kristen Wiig,Benjamin Bratt
+A Casa dos Mortos;Suspense;8;2006;Jodie Foster,Matthew McConaughey,Gary Oldman
+O Cavaleiro das Trevas;Acao;10;2008;Christian Bale,Heath Ledger,Aaron Eckhart
+A Vinganca de uma Mae;Suspense;8;2022;Sandra Bullock,Jeremy Renner,Melissa McCarthy
