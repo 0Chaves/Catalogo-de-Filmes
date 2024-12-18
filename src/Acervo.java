@@ -3,7 +3,6 @@ import java.io.IOException;
 import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
@@ -40,22 +39,21 @@ public class Acervo {
 	}
 	
 	public List<Filme> buscaFilmesAtor(String ator){
-		//deve retornar todos os filmes do ator passado por parametro
-		return null;
+		return lista.stream().filter(filme -> filme.getAutores().stream().anyMatch(a -> a.equals(ator)))
+					.collect(Collectors.toList());
 	}
 	
-	public int mediaNotaGenero(ENUM_generos genero) {
-		//recebe um genero por parametro e retorna a media das notas
-		return 0;
+	public double mediaNotaGenero(ENUM_generos genero) {
+		return lista.stream().filter(filme->filme.getGenero() == genero).mapToDouble(filme->filme.getNota()).average().orElse(0.0);
 	}
 	
 	public List<Filme> buscaFilme(String buscaNome, ENUM_generos genero){
-		//retorna todos os filmes do genero que tenham o nome buscaNome na busca
-		return null;
+		return lista.stream().filter(filme -> filme.getGenero() == genero && filme.getNome().contains(buscaNome))
+					.collect(Collectors.toList());
 	}
 	
-	//TODO
-	//Fazer um metodo que faz alguma filtragem de filmes diferente
-	
+	public List<Filme> buscaNota (int nota){
+		return lista.stream().filter(filme -> filme.getNota() == nota).collect(Collectors.toList());
+	}
 	
 }
